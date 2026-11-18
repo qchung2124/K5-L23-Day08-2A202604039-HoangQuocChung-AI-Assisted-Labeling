@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L23
 - Tài khoản GitHub: qchung2124
 - Repo bài nộp (URL): [https://github.com/qchung2124/K5-L23-Day08-2A202604039-HoangQuocChung-AI-Assisted-Labeling](https://github.com/qchung2124/K5-L23-Day08-2A202604039-HoangQuocChung-AI-Assisted-Labeling)
-- Commit chốt bài (hash): cập nhật sau khi commit cuối (xem git log -1)
+- Commit chốt bài (hash): 4325e27
 - Máy: Windows 11 (WSL2 Ubuntu), không có GPU (CPU)
 - CVAT (Docker): v2.81
 
